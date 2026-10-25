@@ -2,7 +2,7 @@
 
 A browser-based Markdown note-taking app with a live preview. Type Markdown on the left and see the rendered HTML on the right, instantly.
 
-**Live demo:** 
+**Live demo:** https://mark-downotes.vercel.app/
 
 ## Project chosen
 
